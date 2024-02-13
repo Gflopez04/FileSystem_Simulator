@@ -8,15 +8,15 @@ This Python program simulates a file system with support for basic operations li
 - Python 3.x
 
 ### Getting Started
-1. Clone the repository or download the Python script `filesystem_simulator.py`.
+1. Clone the repository or download the Python script `fileSystem.py`.
 
 2. Open a terminal or command prompt.
 
-3. Navigate to the directory where the `filesystem_simulator.py` script is located.
+3. Navigate to the directory where the `fileSystem.py` script is located.
 
 4. Run the script by executing the following command:
     ```
-    python filesystem_simulator.py
+    python fileSystem.py
     ```
 
 ### Commands
